@@ -21,6 +21,15 @@ Grbl includes full acceleration management with look ahead. That means the contr
 
 ***
 
+# How to Setup
+
+   - Download Zip file of the repo.
+   - Extract the contents of the zip file.
+   - Copy the grbl folder to your Arduino/Libraries folder (commonly found in your documents area ).
+   - Restart Arduino IDE if it is open.
+
+***
+
 ### Official Supporters of the Grbl CNC Project
 ![Official Supporters](https://github.com/gnea/gnea-Media/blob/master/Contributors.png?raw=true)
 
